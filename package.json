@@ -1,0 +1,23 @@
+{
+  "name": "caption-api",
+  "version": "1.0.0",
+  "description": "API to generate captions for social media using Gemini",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "api",
+    "gemini",
+    "nodejs",
+    "express"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2"
+  }
+}
